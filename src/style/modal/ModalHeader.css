@@ -1,0 +1,14 @@
+
+.modalHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e8e8d8;
+}
+
+.modalHeader h3 {
+    font-weight: 500;
+    font-size: 21px;
+    color: #1766dc;
+}
