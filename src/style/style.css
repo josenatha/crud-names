@@ -1,0 +1,20 @@
+.cartam{
+    width: 18rem;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.bg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 15px;
+    font-size: 1.2rem;
+    margin: 15px;
+}
+.color{
+    background-color: #e3f2fd;
+}
