@@ -20,7 +20,7 @@ export const UseFormEdit = ({ id }) => {
     useEffect(() => {
         axios.get(`https://users-crud1.herokuapp.com/users/${id}/`)
             .then(({ data }) => setData(data))
-    }, [])
+    }, [id])
 
 
     return (
